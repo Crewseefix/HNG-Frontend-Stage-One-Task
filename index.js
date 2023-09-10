@@ -1,6 +1,5 @@
 const slackProfilePictureUrl = "your_slack_profile_picture_url";
 const track = "Frontend";
-const githubURL = "your_github_repository_url";
 
 document.getElementById("dayOfWeek").textContent = getCurrentDayOfWeek();
 document.getElementById("utcTime").textContent = getCurrentUTCTime();
